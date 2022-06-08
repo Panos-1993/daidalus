@@ -4,11 +4,14 @@ import './components/header.js';
 import Header from './components/header.js';
 import Footer from './components/footer';
 import Profitability from './components/Profitability';
+import About from './components/about.js';
+
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <About />
       <Profitability />
       <Footer />
     </div>
