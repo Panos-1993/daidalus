@@ -1,4 +1,4 @@
-function Profitability() {
+function Profitability() { // This was the cards from bootstrap examples which i turned to profitability
     return (
         <div class="container px-3 py-5" id="custom-cards">
         <h2 class="pb-2 border-bottom">Profitability</h2>
