@@ -3,13 +3,13 @@ import './App.css';
 import './components/header.js';
 import Header from './components/header.js';
 import Footer from './components/footer';
-import Cards from './components/cards';
+import Profitability from './components/Profitability';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Cards />
+      <Profitability />
       <Footer />
     </div>
   );
