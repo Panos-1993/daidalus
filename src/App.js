@@ -5,6 +5,8 @@ import Header from './components/header.js';
 import Footer from './components/footer';
 import Profitability from './components/Profitability';
 import Liquidity from './components/liquidity';
+import Activity from './components/Activity';
+import Risk from './components/Risk';
 import About from './components/about.js';
 
 
@@ -15,6 +17,8 @@ function App() {
       <About />
       <Profitability />
       <Liquidity />
+      <Activity />
+      <Risk />
       <Footer />
     </div>
   );
